@@ -1,0 +1,15 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "just revising and tesing out few things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "nirmalya",
+  "license": "MIT"
+}
